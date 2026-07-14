@@ -1,1 +1,1 @@
-# DecvOps-lab.
+# DevOps-lab.
